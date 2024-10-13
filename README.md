@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me arcane1729@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I can sleep for 20 hrs.
+- ⚡ Favorite anime: Bleach
 
 <!---
 knightrishi/knightrishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
