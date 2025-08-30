@@ -34,13 +34,7 @@
 ## 🎯 DSA Battlefields  
 
 - **LeetCode** ([@knight_rishi](https://leetcode.com/u/knight_rishi/)):  
-  - 243 C++ | 40 Java | 23 MySQL problems solved  
-  - Specialties → **DP ×32 | Backtracking ×13 | Divide & Conquer ×12**  
-  - Streak Badges → **50-Day ’24, ’25 | 100-Day ’25**  
-
-- **Codeforces** ([@knightrishi](https://codeforces.com/profile/knightrishi)):  
-  - Rating: **374** (Newbie → Rising ⚡)  
-  - 62 problems solved, **11-day streak max**  
+- **Codeforces** ([@knightrishi](https://codeforces.com/profile/knightrishi)):   
 
 ---
 
@@ -51,9 +45,6 @@
 ---
 
 ## 🏃 Beyond Code  
-
-- 🌄 **Runner’s Goal**: 74kg → 68kg by September 2025  
-- ✍️ Journaling for growth & reflection  
 - 🎬 Slice-of-life, rom-com & sci-fi movie buff (Fav: *Gifted*)  
 - 🎮 Gamer → *Spider-Man Remastered* enthusiast  
 
