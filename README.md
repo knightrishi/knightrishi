@@ -11,21 +11,23 @@
 ## 🧠 Tech Arsenal  
 
 <p align="center">
-  <!-- Skill Icons Row -->
+  <!-- Main Skill Icons -->
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github" />
-  <!-- Custom Icons for JSP, JDBC, JavaFX -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="JSP (JavaServer Pages)" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" width="45" title="JDBC" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="45" title="JavaFX" />
+
+  <!-- Distinct Logos for JSP, JDBC, JavaFX -->
+  <img src="https://static.javatpoint.com/images/jsp/jsp-tutorial.png" width="50" title="JSP (JavaServer Pages)" />
+  <img src="https://static.javatpoint.com/images/jdbc/jdbc-tutorial.png" width="50" title="JDBC (Java Database Connectivity)" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="50" title="JavaFX" />
 </p>
 
 <p align="center">
-  <b>Languages & Frameworks:</b> C++, Java, JavaScript (React, Node.js, Express), JSP, JavaFX  
+  <b>Languages & Frameworks:</b> C++, Java, JavaScript (React, Node.js, Express), <b>JSP</b>, <b>JavaFX</b>  
   <br/>
-  <b>Databases:</b> MySQL, MongoDB, JDBC (Connectivity Mastery)  
+  <b>Databases:</b> MySQL, MongoDB, <b>JDBC</b> (for enterprise-grade connectivity)  
   <br/>
   <b>Tooling:</b> Git, GitHub, VS Code, IntelliJ IDEA  
 </p>
+
 
 🎯 DSA Battlefields
 
