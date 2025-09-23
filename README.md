@@ -15,8 +15,8 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github" />
 
   <!-- Distinct Logos for JSP, JDBC, JavaFX -->
-  <img src="https://static.javatpoint.com/images/jsp/jsp-tutorial.png" width="50" title="JSP (JavaServer Pages)" />
-  <img src="https://static.javatpoint.com/images/jdbc/jdbc-tutorial.png" width="50" title="JDBC (Java Database Connectivity)" />
+  <img src="[https://static.javatpoint.com/images/jsp/jsp-tutorial.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGLbZM0QiRHsfej67ycrb3UB8oUYHLq_Deg&s)" width="50" title="JSP (JavaServer Pages)" />
+  <img src="[https://static.javatpoint.com/images/jdbc/jdbc-tutorial.png](https://cdn.prod.website-files.com/6377ac1a39ff1e65214224e5/65846a12c3249ad47a920ef5_jdbc.png)" width="50" title="JDBC (Java Database Connectivity)" />
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="50" title="JavaFX" />
 </p>
 
