@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- Skill Icons Row -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman" />
   <!-- Custom Icons for JSP, JDBC, JavaFX -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="JSP (JavaServer Pages)" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" width="45" title="JDBC" />
