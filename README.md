@@ -16,6 +16,9 @@
 
 📊 Contribution Heatmap
 
+(https://github-readme-activity-graph.vercel.app/graph?username=Arnav Singh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 🏃 Beyond the Compiler
 
 🎬 Cinematic Taste: Slice-of-life, rom-com & sci-fi (Fav: Gifted)
