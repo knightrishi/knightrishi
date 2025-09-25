@@ -8,11 +8,27 @@
 ⚡ GitHub Power Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=knightrishi&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=knightrishi&theme=radical&hide_border=true" height="180" />
+<img src="https://streak-stats.demolab.com/?user=knightrishi&theme=radical&hide_border=true&t=1" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrishi&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
+
+🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=knightrishi&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+📊 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knightrishi&theme=radical&hide_border=true" />
+</p>
+
+👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=knightrishi&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
 
 🧠 Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="JSP" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" width="45" title="JDBC" /> <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="45" title="JavaFX" /> </p> <p align="center"> <b>Languages & Frameworks:</b> C++, Java, JavaScript (React, Node.js, Express), JSP, JavaFX <br/> <b>Databases:</b> MySQL, MongoDB, JDBC <br/> <b>Tooling:</b> Git, GitHub, VS Code, IntelliJ IDEA </p>
