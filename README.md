@@ -16,7 +16,7 @@
 ⚔️ Codeforces → Timed duels @ knightrishi
 
 📊 Contribution Heatmap
-
+[![Arnav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=knightrishi&theme=tokyo-night&hide_border=true)](https://github.com/knightrishi)
 
 🏃 Beyond the Compiler
 
