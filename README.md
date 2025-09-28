@@ -5,7 +5,6 @@
   <em>“In the binary symphony of creation, I’m not just a coder — I’m the composer.”</em><br/>
   <em>“Every bug is just a plot twist, every problem a puzzle — and I play to win.”</em>
 </p>
-
 ---
 
 ## ⚡ Quick Links
