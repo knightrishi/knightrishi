@@ -49,9 +49,11 @@
 
 ---
 
+
 ## 🧠 Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="45" title="EJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="JSP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" width="45" title="JDBC"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" width="45" title="JavaFX"/>
