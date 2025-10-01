@@ -72,11 +72,6 @@
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=javafx&logoColor=F27B22" />
 </p>
-<p align="center">
-  <b>Languages & Frameworks:</b> C++, Java, JavaScript (React, Node.js, Express), JSP, JavaFX <br/>
-  <b>Databases:</b> MySQL, MongoDB, JDBC <br/>
-  <b>Tooling:</b> Git, GitHub, VS Code, IntelliJ IDEA
-</p>
 
 ---
 
