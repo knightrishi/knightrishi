@@ -52,12 +52,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knightrishi&theme=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=knightrishi&theme=github" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knightrishi&theme=github&utcOffset=5.5" height="170"/>
+  <img src="https://raw.githubusercontent.com/knightrishi/knightrishi/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ---
