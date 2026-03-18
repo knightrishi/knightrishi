@@ -1,4 +1,4 @@
-<div align="center">
+<img width="862" height="240" alt="image" src="https://github.com/user-attachments/assets/1ea27ace-1b8d-4351-8d93-6ef6e8167b7e" /><div align="center">
 
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5ff,100:ff3d6e&height=200&section=header&text=Arnav%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn"/>
@@ -149,6 +149,7 @@ const arnav = {
 <br/>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Binary Search can be found even in the most unexpected problems, only if one can think about the search space."* - Albus Dumbledore
 
 </div>
 
