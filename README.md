@@ -1,31 +1,37 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5ff,100:ff3d6e&height=200&section=header&text=Arnav%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20Thinker%20%7C%20Problem%20Solver&descAlignY=60&descSize=16"/>
+<!-- BEN 10 THEMED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ecc71,100:00ff9f&height=220&section=header&text=Arnav%20Singh%20⚡&fontSize=70&fontColor=00ff9f&fontAlignY=38&desc=Omnitrix%20Activated%20•%20Full%20Stack%20Engineer%20•%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn"/>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+systems+⚡;DSA+%2B+System+Design+Focused;MERN+%7C+Java+%7C+C%2B%2B+%7C+Go;Engineering+like+Omnitrix+transformations" />
+</p>
 
 ---
 
-## Profile
+## 🧬 Engineer Profile (Omnitrix Core)
 
 ```cpp
-struct Engineer {
+class OmnitrixEngineer {
+public:
     string name = "Arnav Singh";
     string role = "Software Developer";
 
-    vector<string> domains = {
-        "Data Structures & Algorithms",
-        "Backend Systems",
-        "Distributed Systems (Fundamentals)",
-        "Full Stack Engineering"
+    vector<string> forms = {
+        "DSA Specialist",
+        "Backend Engineer",
+        "Full Stack Developer",
+        "System Thinker"
     };
 
-    vector<string> tech = {
+    vector<string> tech_stack = {
         "MERN", "Java", "C++", "Go"
     };
 
-    string current_focus =
-        "Designing scalable systems, strengthening DSA, and building production-grade applications";
+    string current_mode =
+        "Building scalable systems + mastering algorithmic depth";
 
-    string objective =
-        "Engineer efficient, reliable, and maintainable software systems";
+    string mission =
+        "Transform complexity into efficient, reliable systems";
 
-    bool open_for_opportunities = true;
+    bool open_for_roles = true;
 };
