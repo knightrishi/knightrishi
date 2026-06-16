@@ -1,9 +1,9 @@
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ff9f,100:2ecc71&height=220&section=header&text=Arnav%20Singh%20⚡&fontSize=65&fontColor=00ff9f&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn"/>
+<!-- REFINED SYSTEMS ENGINEER HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050a12,100:112a40&height=200&section=header&text=Arnav%20Singh%20⚡&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Building+scalable+distributed+systems;DSA+%2B+Low-Level+Design+Focused;Java+%7C+Go+%7C+C%2B%2B+%7C+MERN;Consistency+beats+talent" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=94f7d3&center=true&vCenter=true&width=700&lines=Building+scalable+distributed+systems;DSA+%2B+Low-Level+Design+Focused;Java+%7C+Go+%7C+C%2B%2B+%7C+MERN;Consistency+beats+talent" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ I am a **Systems-focused Software Engineer** with a deep background in competiti
 
 *   💻 **Core Proficiencies:** Advanced Data Structures & Algorithms, Distributed Systems Architecture, and Concurrency Control.
 *   🛠️ **Architectural Focus:** Designing predictable, failure-tolerant backend logic with clean code principles.
-*   🎯 **Current Track:** Deepening skills in custom networking protocols, asynchronous processing, and cloud native architectures.
+*   🎯 **Current Track:** Deepening skills in custom networking protocols, asynchronous processing, and cloud-native architectures.
 
 ---
 
@@ -62,7 +62,7 @@ I am a **Systems-focused Software Engineer** with a deep background in competiti
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://dev-arnav.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00ff9f?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2 ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -71,15 +71,15 @@ I am a **Systems-focused Software Engineer** with a deep background in competiti
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=knightrishi&show_icons=true&theme=dark&title_color=00ff9f&icon_color=2ecc71&bg_color=0f2027&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrishi&layout=compact&theme=dark&title_color=00ff9f&bg_color=0f2027&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=knightrishi&show_icons=true&theme=dark&title_color=2ecc71&icon_color=2ecc71&bg_color=050a12&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrishi&layout=compact&theme=dark&title_color=2ecc71&bg_color=050a12&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightrishi&theme=dark&ring=00ff9f&fire=2ecc71&background=0f2027&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightrishi&theme=dark&ring=2ecc71&fire=2ecc71&background=050a12&hide_border=true"/>
 </p>
 
-<!-- ANIMATED GRAPH -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knightrishi&bg_color=0f2027&color=00ff9f&line=2ecc71&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github.com/knightrishi/knightrishi/blob/output/github-contribution-grid-snake.svg" alt="Github Snake Animation Engine"/>
 </p>
