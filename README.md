@@ -81,5 +81,5 @@ I am a **Systems-focused Software Engineer** with a deep background in competiti
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://github.com/knightrishi/knightrishi/blob/output/github-contribution-grid-snake.svg" alt="Github Snake Animation Engine"/>
+  <img src="https://raw.githubusercontent.com/knightrishi/knightrishi/output/github-contribution-grid-snake.svg" alt="Github Snake Animation Engine"/>
 </p>
