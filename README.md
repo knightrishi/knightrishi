@@ -1,5 +1,5 @@
 <!-- REFINED SYSTEMS ENGINEER HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050a12,100:112a40&height=200&section=header&text=Arnav%20Singh%20 &fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050a12,100:112a40&height=200&section=header&text=Arnav%20Singh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
