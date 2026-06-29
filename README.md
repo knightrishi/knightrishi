@@ -81,5 +81,7 @@ I am a **Systems-focused Software Engineer** with a deep background in competiti
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/knightrishi/knightrishi/output/github-contribution-grid-snake.svg" alt="Github Snake Animation Engine"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Arnav+Singh+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Competitive+Programmer;Building+Scalable+Software" alt="Typing SVG" />
+  </a>
 </p>
