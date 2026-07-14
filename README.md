@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[https://githubusercontent.com](https://github.com/knightrishi/knightrishi/blob/17aa756880c6f1bdb6aee99588c8d2b47cbc4013/220261.gif
-)" width="300" alt="Anime Character">
+  <img src="https://raw.githubusercontent.com/knightrishi/knightrishi/main/220261.gif" width="200" alt="Anime Character">
 </p>
 
 <!-- REFINED SYSTEMS ENGINEER HEADER -->
