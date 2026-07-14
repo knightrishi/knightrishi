@@ -24,23 +24,13 @@ I am a **Systems-focused Software Engineer** with a deep background in competiti
 
 ## 🚀 Featured Projects
 
-### <h3>
-🔎 Distributed Search Engine
-<img src="https://tenor.com/en-IN/view/texty-hfjone-one-osc-gif-15143396637300268001"
-     width="120"
-     align="right">
-</h3>
+### 🔎 Distributed Search Engine
 > **Java, Spring Boot, Concurrency Utilities, RESTful APIs**
 *   Built a custom distributed search engine utilizing a multi-node **Scatter-Gather architecture** with `CompletableFuture`.
 *   Implemented manual text parsing (tokenization, stop-word elimination), data sharding using hash-based partitioning ($\text{hash} \pmod N$), and independent inverted indices per node.
 *   Engineered high availability through a Primary-Replica model backed by a real-time cluster heartbeat failure monitor.
 
-### <h3> 
-🩸 LifeLine  <p align="center">
- <img src="<img src="https://tenor.com/en-IN/view/texty-hfjone-one-osc-gif-15143396637300268001"
-     width="120"
-     align="right">
-</h3>
+### 🩸 LifeLine  
 > **MongoDB, Express.js, React, Node.js (MERN), Tailwind CSS**
 *   An automated platform optimizing critical blood donation workflows with real-time location-based donor-patient matching.
 *   Features high-performance background inventory reconciliation and granular dashboard analytics for medical centers.
