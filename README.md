@@ -1,4 +1,7 @@
-,<p>https://github.com/knightrishi/knightrishi/blob/17aa756880c6f1bdb6aee99588c8d2b47cbc4013/220261.gif</p>
+<p align="center">
+  <img src="[https://githubusercontent.com](https://github.com/knightrishi/knightrishi/blob/17aa756880c6f1bdb6aee99588c8d2b47cbc4013/220261.gif
+)" width="300" alt="Anime Character">
+</p>
 
 <!-- REFINED SYSTEMS ENGINEER HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050a12,100:112a40&height=200&section=header&text=Arnav%20Singh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16"/>
