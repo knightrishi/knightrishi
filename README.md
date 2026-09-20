@@ -48,13 +48,13 @@ I enjoy building backend systems where **performance, scalability, and reliabili
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,go,js,ts,python,c"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,go,js,python,c"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven"/>
+<img src="https://skillicons.dev/icons?i=springboot,nodejs,express,maven"/>
 </p>
 
 ### Frontend
