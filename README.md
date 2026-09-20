@@ -54,7 +54,7 @@ I enjoy building backend systems where **performance, scalability, and reliabili
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=springboot,nodejs,express,maven"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven"/>
 </p>
 
 ### Frontend
