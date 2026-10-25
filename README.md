@@ -1,142 +1,54 @@
 <!-- ========================================================= -->
-<!--                    HERO SECTION                            -->
+<!--              SYSTEM TELEMETRY // HERO SECTION             -->
 <!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E293B,100:22D3EE&height=260&section=header&text=Arnav%20Singh&fontSize=60&fontColor=E2F3FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20Distributed%20Systems%20|%20Backend%20Developer&descAlignY=60&descSize=18"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0F172A,80:083344,100:22D3EE&height=280&section=header&text=ARNAV%20SINGH&fontSize=65&fontColor=F8FAFC&fontAlignY=42&animation=twinkling&desc=%5B%20SYSTEMS%20ARCHITECT%20//%20DISTRIBUTED%20COMPUTING%20//%20BACKEND%20ENGINEERING%20%5D&descAlignY=65&descSize=16&stroke=22D3EE&strokeWidth=1"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Scalable+Distributed+Systems.;Java+%7C+Spring+Boot+%7C+Go+%7C+MERN.;800%2B+DSA+Problems+Solved.;Engineering+Systems+that+Scale+Gracefully."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+DISTRIBUTED+NODES...;%3E+STACK%3A+JAVA+%7C+SPRING+BOOT+%7C+GO+%7C+REDIS+%7C+DOCKER;%3E+900%2B+ALGORITHMIC+CHALLENGES+RESOLVED+%28MAX+RATING%3A+1658%29;%3E+ENGINEERING+FAULT-TOLERANT%2C+HIGH-THROUGHPUT+SYSTEMS."/>
 </p>
 
+<!-- TELEMETRY BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=knightrishi&label=Profile+Views&color=22D3EE&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/knightrishi?style=for-the-badge&color=0EA5E9"/>
-  <img src="https://img.shields.io/github/stars/knightrishi?affiliations=OWNER&style=for-the-badge&color=38BDF8"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-22D3EE?style=for-the-badge&logo=statuspage&logoColor=020617&labelColor=0F172A"/>
+  <img src="https://komarev.com/ghpvc/?username=knightrishi&label=TELEMETRY+VIEWS&color=0EA5E9&style=for-the-badge&labelColor=0F172A"/>
+  <img src="https://img.shields.io/github/followers/knightrishi?label=NETWORK%20NODES&style=for-the-badge&color=38BDF8&labelColor=0F172A"/>
+  <img src="https://img.shields.io/github/stars/knightrishi?affiliations=OWNER&label=SYSTEM%20STARS&style=for-the-badge&color=22D3EE&labelColor=0F172A"/>
 </p>
 
----
+<br/>
 
-# 👨‍💻 About Me
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<!-- ========================================================= -->
+<!--                   SYSTEM MANIFEST // YAML                 -->
+<!-- ========================================================= -->
+
+## ⚡ `root@knightrishi:~# cat system_manifest.yaml`
 
 ```yaml
-Name: Arnav Singh
-Role: Software Engineer
-Focus:
-  - Distributed Systems
-  - Backend Engineering
-  - Low-Level Design
-  - Algorithms & Problem Solving
-
-Currently Building:
-  - Distributed Search Engine
-  - AI Resume Parser
-  - Life Line (Healthcare Platform)
-
-Learning:
-  - System Design
-  - Kubernetes
-  - Kafka
-  - Redis Internals
-```
-
-I enjoy building backend systems where **performance, scalability, and reliability** matter more than flashy interfaces.
-
----
-
-# ⚡ Engineering Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,go,js,python,c"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite"/>
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,git,github"/>
-</p>
-
----
-
-
-# 🧠 Problem Solving
-
-<p align="center">
-
-| Platform | Progress |
-|----------|----------|
-| 🟠 LeetCode | **600+ Problems** |
-| 🔵 Codeforces | Competitive Programming |
-| 🟤 CodeChef | Regular Contest Practice |
-| ⚪ Total DSA Solved | **1000+ Problems** |
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=knightrishi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrishi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=knightrishi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=knightrishi&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/arnav-singh-851476318">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/trench_born/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/knightrishi">
-<img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://knightrishi.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<i>"Build systems that continue working even when parts of the system fail."</i>
-</p>
+apiVersion: engineering.arnav.io/v2
+kind: ArchitectProfile
+metadata:
+  identity: "Arnav Singh"
+  handle: "knightrishi // trench_born"
+  role: "Backend & Distributed Systems Engineer"
+  clearance: "B.Tech CSE '27"
+spec:
+  core_directives:
+    - "High-Throughput Distributed Architectures"
+    - "Concurrency Control & Low-Level System Design"
+    - "Fault-Tolerant Microservices & Event-Driven Pipelines"
+    - "Data Structures & Competitive Algorithms"
+  runtime_environment:
+    primary: ["Java", "Spring Boot", "Go", "Node.js"]
+    data_layer: ["MySQL", "Redis (Distributed Caching)", "MongoDB"]
+    infrastructure: ["Docker", "Kubernetes", "Kafka", "Linux"]
+  philosophy: >
+    "Flashy interfaces fade; resilient backend topology endures. 
+     Build systems that scale gracefully and self-heal under load."
